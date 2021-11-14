@@ -3,6 +3,8 @@
 
 
 - 🔭 I’m currently working on ... [ASAC](https://alqudscollege-my.sharepoint.com/:f:/g/personal/advtech_ltuc_com/Egh862jH9mVFkBzojrapzN4Bi39m8cE0VGJip2QARugMjQ?e=IzaWMg)
+
+`pg_ctl -D /home/linuxbrew/.linuxbrew/var/postgres start`
 <!--
 **amr88nzzal/amr88nzzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
